@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.user-list{
+    margin-left: 50px;
+}
+
+.post-info{
+    margin-top: 20px;
+    display:flex;
+    flex-flow: wrap;
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.post-item{
+    width: 600px;
+    padding: px;
+    margin: 7px;
+    border: 1px solid black;
+}
